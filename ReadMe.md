@@ -1,4 +1,5 @@
-## [Different ways to use Const with Reference to a Pointer in C++](https://www.geeksforgeeks.org/different-ways-to-use-const-with-reference-to-a-pointer-in-c/)
+
+<a id="a2">## [Different ways to use Const with Reference to a Pointer in C++](https://www.geeksforgeeks.org/different-ways-to-use-const-with-reference-to-a-pointer-in-c/) </a>
 
 - Reference to a const pointer
 - const reference to a pointer
@@ -23,7 +24,7 @@ int main()
 ```
 OUTPUT: 30
 
-## CONSTRUCTORS
+<a id="a1">## CONSTRUCTORS</a>
 
 ### Initializer List
 Initializer list is used to initialize data members.The initializer list does not end in a semicolon.
