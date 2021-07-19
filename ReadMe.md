@@ -1,5 +1,8 @@
 ## [Different ways to use Const with Reference to a Pointer in C++](https://www.geeksforgeeks.org/different-ways-to-use-const-with-reference-to-a-pointer-in-c/)
 
+- Reference to a const pointer
+- const reference to a pointer
+
 ## CONSTRUCTORS
 
 ### Initializer List
