@@ -21,7 +21,7 @@ Parameters: This method accepts a mandatory parameter char which is the characte
 
 Return Value: This function returns the character written on the stdout as an unsigned char. It also returns EOF when some error occurs.
 
-###C Program to Read and Write a Single Character
+### C Program to Read and Write a Single Character
 In this program, we are just reading a single character and displaying the same character on the console.
 
 ```
