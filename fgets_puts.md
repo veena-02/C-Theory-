@@ -1,3 +1,4 @@
+[must read](https://www.geeksforgeeks.org/fgets-gets-c-language/)
 ### Accepting String containing multiple words
 
 When we use scanf with the format specification %s to accept String as input, by default it will not accept String with multiple words.
